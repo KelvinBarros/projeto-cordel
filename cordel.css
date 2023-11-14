@@ -11,7 +11,7 @@
 
 header{
     font-family: 'Lilita One', Arial, Helvetica, sans-serif;
-    font-size: 5vh;
+    font-size: 5vW;
     background-color: black;
     color: aliceblue;
     text-align: center;
@@ -56,13 +56,17 @@ header a:hover{
 
 
 #img1 p{
-    background-color: rgba(0, 0, 0, 0.308);
+    background-color: rgba(0, 0, 0, 0.411);
     width: 400px;
+    padding: 10px;
+    margin: 40px 0px;
 }
 
 #img2 p{
-    background-color: rgba(0, 0, 0, 0.308);
+    background-color: rgba(0, 0, 0, 0.432);
     width: 400px;
+    padding: 10px;
+    margin: 40px 0px;
 }
 
 
