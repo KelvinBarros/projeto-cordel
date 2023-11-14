@@ -11,13 +11,16 @@
 
 header{
     font-family: 'Lilita One', Arial, Helvetica, sans-serif;
-    font-size: 2em;
+    font-size: 5vh;
     background-color: black;
     color: aliceblue;
     text-align: center;
     padding: 10px;
-    height: 150px;
+    min-height: 150px;
+}
 
+header h1{
+    height: auto;
 }
 
 section{
