@@ -70,7 +70,9 @@ header a:hover{
 }
 
 
-
+p{
+    font-size: 2vh;
+}
 
 
 
@@ -83,7 +85,7 @@ footer{
     background-color: black;
     padding: 5px;
     text-align: center;
-    font-size: bold;
+    font-size:normal;
 }
 
 footer a{
