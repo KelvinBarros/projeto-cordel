@@ -33,6 +33,7 @@ section{
     font-size: 3em;
     padding: 20px;
     margin: 30px 0px;
+   
 }
 
 
@@ -40,6 +41,8 @@ section{
     background: black url(imagens/background001.jpg) right top no-repeat fixed;
     background-size: cover;
     color: aliceblue;
+    box-shadow: inset 3px 3px 10px rgba(0, 0, 0, 0.425);
+
     
 }
 
@@ -47,6 +50,7 @@ section{
     background: black url(imagens/background002.jpg) right top no-repeat fixed;
     background-size: cover;
     color: aliceblue;
+    box-shadow: inset 3px 3px 10px rgba(0, 0, 0, 0.486);
 }
 
 header a{
