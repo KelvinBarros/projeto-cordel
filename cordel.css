@@ -63,7 +63,7 @@ header a:hover{
 
 #img1 p{
     background-color: rgba(0, 0, 0, 0.411);
-    max-width: 300px;
+    display: inline-block;
     padding: 10px;
     margin: 40px 0px;
     
@@ -71,7 +71,7 @@ header a:hover{
 
 #img2 p{
     background-color: rgba(0, 0, 0, 0.432);
-    max-width: 300px;
+    display: inline-block;
     padding: 10px;
     margin: 40px 0px;
 }
